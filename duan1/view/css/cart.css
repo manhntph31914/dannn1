@@ -1,0 +1,36 @@
+.btnCart{
+	background-color: rgb(115, 115, 111);
+    color:white;
+    opacity: 50%;
+    font-size: 23px;
+    border: none;
+}
+.btnCart1{
+	background-color: rgb(115, 115, 111);
+    color:white;
+    opacity: 50%;
+    font-size: 23px;
+    width: 210px;
+    border: none;
+}
+.btnCart:hover{
+    background-color: rgb(240, 240, 36);
+    color: white;
+    opacity: 100%;
+}
+.btnCart1:hover{
+    background-color: rgb(230, 88, 88);
+    color: white;
+    opacity: 100%;
+}
+.btnconfirm{
+    border: none;
+    background: rgb(115, 115, 111);
+    opacity: 50%;
+    color: #fff;
+}
+.btnconfirm:hover{
+    background-color: rgb(230, 88, 88);
+    color: white;
+    opacity: 100%;
+}
